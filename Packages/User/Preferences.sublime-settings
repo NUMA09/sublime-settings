@@ -1,0 +1,10 @@
+{
+    "font_face": "Myrica M",
+    "font_size": 12,
+
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}

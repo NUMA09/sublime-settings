@@ -1,0 +1,4 @@
+{
+    // By default, only simple spaces and tabs are matched as "trailing spaces".
+    "trailing_spaces_regexp": "　|[ \t]+"
+}

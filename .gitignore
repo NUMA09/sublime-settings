@@ -45,3 +45,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+/*/
+!/Packages/
+/Packages/*
+!/Packages/Default/
+!/Packages/User/
+/Packages/User/encoding_cache.json
+/Packages/User/Package Control.cache/
+/Packages/User/Package Control.ca-bundle
+/Packages/User/Package Control.ca-certs/
+/Packages/User/Package Control.ca-list
+/Packages/User/Package Control.last-run
+/Packages/User/Package Control.system-ca-bundle
